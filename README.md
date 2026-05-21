@@ -1,5 +1,6 @@
 # Hi there , I'm Samuel-Johnson-Edema
 ### Data Analyst • Financial Analyst • Business Intelligence Specialist
+
 I'm a passionate results-driven **Data Analyst and Data Scientist with 5+ years of experience** turning raw
 data into actionable insights across multiple business units. I specialize in **data analysis,
 predictive modeling, business intelligence, and data storytelling** to support strategic decisionmaking.
@@ -34,6 +35,6 @@ Analyst, financial Analyst
 ---
 ### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com](https://www.linkedin.com/in/samuel-edema/u/))
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-thebadge&logo=gmail&logoColor=white)](mailto: edemaokayogbani@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-thebadge&logo=gmail&logoColor=white)](mailto:edemaokayogbani@gmail.com)
 ---
 **Let’s turn data into decisions that matter.** 
