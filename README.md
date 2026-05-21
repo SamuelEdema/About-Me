@@ -4,11 +4,14 @@
 I'm a passionate results-driven **Data Analyst and Data Scientist with 5+ years of experience** turning raw
 data into actionable insights across multiple business units. I specialize in **data analysis,
 predictive modeling, business intelligence, and data storytelling** to support strategic decisionmaking.
+
 I believe impactful analytics goes beyond numbers — it must be **accurate, interpretable,
 scalable, and business-focused**. Whether I'm building executive dashboards, optimizing SQL
 pipelines, or developing machine learning models, I focus on insights that drive real-world
 outcomes.
+
 ---
+
 ## 🛠 Tech Stack & Skills
 ### Data Analysis & Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-thebadge&logo=powerbi&logoColor=black)
