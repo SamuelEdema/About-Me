@@ -34,6 +34,6 @@ Analyst, financial Analyst
 ---
 ### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com](https://www.linkedin.com/in/samuel-edema/u/))
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-thebadge&logo=gmail&logoColor=white)](mailto: @gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-thebadge&logo=gmail&logoColor=white)](mailto: edemaokayogbani@gmail.com)
 ---
 **Let’s turn data into decisions that matter.** 
